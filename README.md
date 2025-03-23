@@ -119,5 +119,3 @@ For any inquiries, please reach out to [abhishekmandge@gmail.com],
 [LinkedIn](https://www.linkedin.com/in/abhishek-mandge/)
 
 ---
-
-Add this README.md file to the root of your repository. Once added, you can include the GitHub link to your resume to showcase your project to recruiters.
