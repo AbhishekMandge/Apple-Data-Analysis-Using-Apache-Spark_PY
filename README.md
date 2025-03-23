@@ -108,9 +108,6 @@ Ensure your environment is configured with Spark and PySpark.
 
 Contributions are welcome! Please create a pull request with detailed information on the changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
